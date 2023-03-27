@@ -7,7 +7,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/ml-sandbox/tree/main/diamond_quality">multiclass</a></span>   - <span style="color: #808080; text-decoration-color: #808080">multiclass classifier (ML)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/restaurant-inspections">inspections</a></span>  - <span style="color: #808080; text-decoration-color: #808080">query NYC restaurant data (SQL)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/distributed-computing">spark</a></span>        - <span style="color: #808080; text-decoration-color: #808080">distributing computing &amp; clusters (Spark)</span>
-<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>📈 Statistics
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span>📈 Explorations
 <span style="color: #808080; text-decoration-color: #808080">    ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/stats-sandbox/blob/main/bootstrap.ipynb">bootstrap</a></span>    - <span style="color: #808080; text-decoration-color: #808080">powerful resampling technique</span>
 
 </pre>

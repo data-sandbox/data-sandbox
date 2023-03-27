@@ -22,7 +22,7 @@ mini_tree.add(
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/distributed-computing]spark[/]        - [bright_black]distributing computing & clusters (Spark)")
 
-stats_tree = tree.add("📈 Statistics", guide_style="bright_black")
+stats_tree = tree.add("📈 Explorations", guide_style="bright_black")
 stats_tree.add(
     "[bold link=https://github.com/data-sandbox/stats-sandbox/blob/main/bootstrap.ipynb]bootstrap[/]    - [bright_black]powerful resampling technique")
 
