@@ -21,6 +21,8 @@ mini_tree.add(
     "[bold link=https://github.com/data-sandbox/restaurant-inspections]inspections[/]  - [bright_black]query NYC restaurant data (SQL)")
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/distributed-computing]spark[/]        - [bright_black]distributing computing & clusters (Spark)")
+mini_tree.add(
+    "[bold link=https://github.com/data-sandbox/bash/tree/main/rsync]rsync[/]        - [bright_black]backup workflow without the cloud (bash)")
 
 stats_tree = tree.add("📈 Explorations", guide_style="bright_black")
 stats_tree.add(
