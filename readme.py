@@ -14,6 +14,8 @@ main_tree.add(
 
 mini_tree = tree.add("📚 Mini Projects", guide_style="bright_black")
 mini_tree.add(
+    "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/sentiment_amazon]sentiment[/]    - [bright_black]sentiment analysis of reviews (NLP)")
+mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/customer_churn]churn[/]        - [bright_black]predict customer churn (ML)")
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/diamond_quality]multiclass[/]   - [bright_black]multiclass classifier (ML)")
@@ -26,7 +28,9 @@ mini_tree.add(
 
 stats_tree = tree.add("📈 Explorations", guide_style="bright_black")
 stats_tree.add(
-    "[bold link=https://github.com/data-sandbox/stats-sandbox/blob/main/bootstrap.ipynb]bootstrap[/]    - [bright_black]powerful resampling technique")
+    "[bold link=https://github.com/data-sandbox/stats-sandbox/blob/main/bootstrap.ipynb]bootstrap[/]    - [bright_black]powerful resampling technique (stats)")
+stats_tree.add(
+    "[bold link=https://github.com/data-sandbox/stats-sandbox/blob/main/permutation.ipynb]permutation[/]  - [bright_black]statistical significance test (stats)")
 
 console.print(tree)
 console.print("")
