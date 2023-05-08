@@ -3,7 +3,7 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree("😀 [link=https://github.com/data-sandbox]data-sandbox",
+tree = Tree("😀 [link=https://data-sandbox.github.io/]data-sandbox",
             guide_style="bold bright_black")
 
 main_tree = tree.add("📘 Main Projects", guide_style="bright_black")
@@ -11,6 +11,8 @@ main_tree.add(
     "[bold link=https://github.com/data-sandbox/nlp-brewer-finder]brewyou[/]      - [bright_black]find better breweries (NLP)")
 main_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-bluebikes-forecasting]bluebikes[/]    - [bright_black]time series forecasting (ML)")
+main_tree.add(
+    "[bold link=https://github.com/data-sandbox/data-sandbox.github.io]website[/]      - [bright_black]personal website and blog (web)")
 
 mini_tree = tree.add("📚 Mini Projects", guide_style="bright_black")
 mini_tree.add(
