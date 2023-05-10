@@ -16,6 +16,8 @@ main_tree.add(
 
 mini_tree = tree.add("📚 Mini Projects", guide_style="bright_black")
 mini_tree.add(
+    "[bold link=https://github.com/data-sandbox/llms/blob/main/GPT-3_chatbot.ipynb]barbot[/]       - [bright_black]custom chatbot for bar orders (LLM)")
+mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/sentiment_amazon]sentiment[/]    - [bright_black]sentiment analysis of reviews (NLP)")
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/customer_churn]churn[/]        - [bright_black]predict customer churn (ML)")
