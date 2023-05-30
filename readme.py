@@ -20,7 +20,7 @@ mini_tree.add(
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/sentiment_amazon]sentiment[/]    - [bright_black]sentiment analysis of reviews (NLP)")
 mini_tree.add(
-    "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/customer_churn]churn[/]        - [bright_black]predict customer churn (ML)")
+    "[bold link=https://github.com/data-sandbox/data-pipelines/tree/main/bash_temp_reporting]etl[/]          - [bright_black]ETL pipeline with bash scripting")
 mini_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/diamond_quality]multiclass[/]   - [bright_black]multiclass classifier (ML)")
 mini_tree.add(
