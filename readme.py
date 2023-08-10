@@ -8,7 +8,8 @@ tree = Tree("😀 [link=https://data-sandbox.github.io/]data-sandbox (website & 
 
 dev_tree = tree.add("⚛️ Software Development Projects",
                     guide_style="bright_black")
-
+dev_tree.add(
+    "[bold link=https://data-sandbox.github.io/restaurant/]single-page[/]   - [bright_black]dynamic page rewrites (JS, HTML, CSS)")
 dev_tree.add(
     "[bold link=https://data-sandbox.github.io/etch-a-sketch/]etch-a-sketch[/] - [bright_black]drawing sketch pad (JS, HTML, CSS)")
 dev_tree.add(
