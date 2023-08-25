@@ -41,7 +41,7 @@ dev_tree.add(
 about = """\
 Welcome to my digital sandbox! I'm part data scientist, part software engineer, and part mechanical engineer.
 
-[bold]What I'm currently learning:[/]
+[underline]What I'm currently learning:[/]
 - Energy market analysis methods
 - [bold link=https://github.com/switch-model/switch]Switch 2.0[/] Python model for high-renewables system planning
 - Agent-based modeling methods
