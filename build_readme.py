@@ -48,7 +48,7 @@ Welcome to my digital sandbox! I'm part data scientist, part software engineer, 
 """
 
 panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[b]Hey there", width=70
+    about, box=box.DOUBLE, border_style="blue", title="[bold]Hey there", width=70
 )
 
 console.print(Columns([panel, tree]))
