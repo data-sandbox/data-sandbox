@@ -1,14 +1,3 @@
-## Hey there! 👋
-
-Welcome to my digital sandbox! I'm part data scientist, part software engineer, and part mechanical engineer.
-
-### What I'm currently learning:
-
-- Energy market analysis methods
-- [Switch 2.0](https://github.com/switch-model/switch) Python model for high-renewables system planning
-- Agent-based modeling methods
-
-### Project directory:
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">😀 <a href="https://data-sandbox.github.io/">data-sandbox (website &amp; blog)</a>
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>📊 Data Science Projects
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/nlp-brewer-finder">brewyou</a></span>       - <span style="color: #808080; text-decoration-color: #808080">find better breweries (NLP)</span>

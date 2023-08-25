@@ -1,8 +1,5 @@
 from rich.console import Console
-from rich import box
 from rich.tree import Tree
-from rich.columns import Columns
-from rich.panel import Panel
 
 console = Console(record=True, width=100)
 
@@ -38,25 +35,12 @@ dev_tree.add(
 dev_tree.add(
     "[bold link=https://github.com/data-sandbox/data-sandbox.github.io]website[/]       - [bright_black]personal website and blog (JS, HTML, CSS")
 
-about = """\
-Welcome to my digital sandbox! I'm part data scientist, part software engineer, and part mechanical engineer.
-
-[underline]What I'm currently learning:[/]
-- Energy market analysis methods
-- [bold link=https://github.com/switch-model/switch]Switch 2.0[/] Python model for high-renewables system planning
-- Agent-based modeling methods
-"""
-
-panel = Panel.fit(
-    about, box=box.DOUBLE, border_style="blue", title="[bold]Hey there", width=70
-)
-
-console.print(Columns([panel, tree]))
+console.print(tree)
 
 
 CONSOLE_HTML_FORMAT = """\
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
 """
 
-console.save_html("README.md", inline_styles=True,
+console.save_html("parts/02_tree.md", inline_styles=True,
                   code_format=CONSOLE_HTML_FORMAT)
