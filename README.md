@@ -4,9 +4,8 @@ Welcome to my digital sandbox! I'm a mixtape of data scientist, software develop
 
 ### 🕵️ What I'm currently learning:
 
-- Energy market analysis methods ⚡️
-- [Switch 2.0](https://github.com/switch-model/switch) Python model for high-renewables system planning 🐍
-- Agent-based modeling methods
+- Energy market analysis methods (Such as open-source Python production cost models like [Switch](https://github.com/switch-model/switch)) ⚡️
+- Life cycle assessment (LCA) and Techno-economic analysis (TEA) methods and tools 💸
 
 ### 🗂 Project directory:
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">😀 <a href="https://data-sandbox.github.io/">data-sandbox (website &amp; blog)</a>
