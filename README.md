@@ -1,4 +1,4 @@
-## 👋 Hey there!
+# 👋 Hey there!
 
 Welcome to my digital sandbox! I'm a mixtape of data scientist, software developer, and mechanical engineer - all rolled up into one unique remix! 📊💻🛠
 
