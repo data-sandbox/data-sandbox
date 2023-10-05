@@ -4,6 +4,7 @@ Welcome to my digital sandbox! I'm a mixtape of data scientist, software develop
 
 ### 🕵️ What I'm currently learning:
 
+- Building an interactive energy dashboard 👉 [Live Demo](https://data-sandbox.github.io/energy-dashboard/)
 - Energy market analysis methods (Such as open-source Python production cost models like [Switch](https://github.com/switch-model/switch)) ⚡️
 - Life cycle assessment (LCA) and Techno-economic analysis (TEA) methods and tools 💸
 - Battery energy storage systems and their projected growth ([Article](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/enabling-renewable-energy-with-battery-energy-storage-systems), [IRENA](https://www.irena.org/Publications/2019/Sep/Enabling-Technologies)) 🔋
@@ -15,7 +16,8 @@ Welcome to my digital sandbox! I'm a mixtape of data scientist, software develop
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/ml-bluebikes-forecasting">bluebikes</a></span>     - <span style="color: #808080; text-decoration-color: #808080">time series forecasting (ML)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/llms/blob/main/GPT-3_chatbot.ipynb">barbot</a></span>        - <span style="color: #808080; text-decoration-color: #808080">custom chatbot for bar orders (LLM)</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/ml-sandbox/tree/main/sentiment_amazon">sentiment</a></span>     - <span style="color: #808080; text-decoration-color: #808080">sentiment analysis of reviews (NLP)</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/bash/tree/main/rsync">rsync</a></span>         - <span style="color: #808080; text-decoration-color: #808080">backup workflow without the cloud (bash)</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/data-sandbox/bash/tree/main/rsync">rsync</a></span>         - <span style="color: #808080; text-decoration-color: #808080">backup workflow without the cloud (bash)</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://data-sandbox.github.io/energy-dashboard/">energy dash</a></span>   - <span style="color: #808080; text-decoration-color: #808080">dashboard of energy statistics (API)</span>
 <span style="color: #808080; text-decoration-color: #808080">┗━━ </span>⚛️ Software Development Projects
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://data-sandbox.github.io/restaurant/">single-page</a></span>   - <span style="color: #808080; text-decoration-color: #808080">dynamic page rewrites (JS, HTML, CSS)</span>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="font-weight: bold"><a href="https://data-sandbox.github.io/etch-a-sketch/">etch-a-sketch</a></span> - <span style="color: #808080; text-decoration-color: #808080">drawing sketch pad (JS, HTML, CSS)</span>

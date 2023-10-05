@@ -17,6 +17,8 @@ ds_tree.add(
     "[bold link=https://github.com/data-sandbox/ml-sandbox/tree/main/sentiment_amazon]sentiment[/]     - [bright_black]sentiment analysis of reviews (NLP)")
 ds_tree.add(
     "[bold link=https://github.com/data-sandbox/bash/tree/main/rsync]rsync[/]         - [bright_black]backup workflow without the cloud (bash)")
+ds_tree.add(
+    "[bold link=https://data-sandbox.github.io/energy-dashboard/]energy dash[/]   - [bright_black]dashboard of energy statistics (API)")
 
 dev_tree = tree.add("⚛️ Software Development Projects",
                     guide_style="bright_black")
