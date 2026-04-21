@@ -3,10 +3,13 @@ from rich.tree import Tree
 
 console = Console(record=True, width=100)
 
-tree = Tree("😀 [link=https://data-sandbox.github.io/]data-sandbox (website & blog)",
-            guide_style="bold bright_black")
+tree = Tree("😀 data-sandbox", guide_style="bold bright_black")
 
-ds_tree = tree.add("📊 Data Science Projects", guide_style="bright_black")
+ds_tree = tree.add("🚀 Data Engineering", guide_style="bright_black")
+ds_tree.add(
+    "[bold link=https://github.com/data-sandbox/django-vs-litestar]which-api[/]     - [bright_black]django vs litestar (API, Postgres)")
+
+ds_tree = tree.add("📊 Data Science (oldies but goodies)", guide_style="bright_black")
 ds_tree.add(
     "[bold link=https://github.com/data-sandbox/nlp-brewer-finder]brewyou[/]       - [bright_black]find better breweries (NLP)")
 ds_tree.add(
@@ -18,9 +21,9 @@ ds_tree.add(
 ds_tree.add(
     "[bold link=https://github.com/data-sandbox/bash/tree/main/rsync]rsync[/]         - [bright_black]backup workflow without the cloud (bash)")
 ds_tree.add(
-    "[bold link=https://data-sandbox.github.io/energy-dashboard/]energy dash[/]   - [bright_black]dashboard of energy statistics (API)")
+    "[bold link=https://data-sandbox.github.io/energy-dashboard/]energy-dash[/]   - [bright_black]dashboard of energy statistics (API)")
 
-dev_tree = tree.add("⚛️ Software Development Projects",
+dev_tree = tree.add("⚛️ Software FE (more oldies but goodies)",
                     guide_style="bright_black")
 dev_tree.add(
     "[bold link=https://data-sandbox.github.io/restaurant/]single-page[/]   - [bright_black]dynamic page rewrites (JS, HTML, CSS)")
