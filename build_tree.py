@@ -7,7 +7,7 @@ tree = Tree("😀 data-sandbox", guide_style="bold bright_black")
 
 ds_tree = tree.add("🚀 Data Engineering", guide_style="bright_black")
 ds_tree.add(
-    "[bold link=https://github.com/data-sandbox/django-vs-litestar]which-api[/]     - [bright_black]django vs litestar (API, Postgres)")
+    "[bold link=https://github.com/data-sandbox/django-vs-litestar]which-api[/]     - [bright_black]django, litestar, fastapi, flask (API, Postgres)")
 
 ds_tree = tree.add("📊 Data Science (oldies but goodies)", guide_style="bright_black")
 ds_tree.add(
